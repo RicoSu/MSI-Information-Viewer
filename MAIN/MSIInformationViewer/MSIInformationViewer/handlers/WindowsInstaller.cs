@@ -3,7 +3,7 @@ using System.Linq;
 using System.Windows;
 using Microsoft.Deployment.WindowsInstaller;
 
-namespace MSIInformationViewer.handlers
+namespace MsiInformationViewer.handlers
 {
     internal class MsiInformation
     {

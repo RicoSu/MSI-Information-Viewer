@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSIInformationViewer", "MSIInformationViewer\MSIInformationViewer.csproj", "{FDBE4337-D7F2-4469-AA87-15A4180C7D8C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsiInformationViewer", "MSIInformationViewer\MsiInformationViewer.csproj", "{FDBE4337-D7F2-4469-AA87-15A4180C7D8C}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "MSIInformationViewerInstaller", "Installer Project\MsiInformationViewerInstaller.aiproj", "{8A01ACC3-D70D-4A7A-844B-308F1327D1C4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FDBE4337-D7F2-4469-AA87-15A4180C7D8C} = {FDBE4337-D7F2-4469-AA87-15A4180C7D8C}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +20,10 @@ Global
 		{FDBE4337-D7F2-4469-AA87-15A4180C7D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDBE4337-D7F2-4469-AA87-15A4180C7D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDBE4337-D7F2-4469-AA87-15A4180C7D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A01ACC3-D70D-4A7A-844B-308F1327D1C4}.Debug|Any CPU.ActiveCfg = All
+		{8A01ACC3-D70D-4A7A-844B-308F1327D1C4}.Debug|Any CPU.Build.0 = All
+		{8A01ACC3-D70D-4A7A-844B-308F1327D1C4}.Release|Any CPU.ActiveCfg = All
+		{8A01ACC3-D70D-4A7A-844B-308F1327D1C4}.Release|Any CPU.Build.0 = All
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
