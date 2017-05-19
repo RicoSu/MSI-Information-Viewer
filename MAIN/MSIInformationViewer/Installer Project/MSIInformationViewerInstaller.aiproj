@@ -15,11 +15,7 @@
     <Name>MsiInformationViewerInstaller</Name>
     <RootNamespace>Installer Project</RootNamespace>
   </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)' == 'All' ">
-    <DebugSymbols>false</DebugSymbols>
-    <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
-    <OutputPath>C:\Users\Rico Suter\Source\Workspaces\msi\MAIN\MSIInformationViewer\MSIInformationViewer\bin\Release</OutputPath>
-  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'DefaultBuild' " />
   <ItemGroup>
     <Compile Include="MsiInformationViewerInstaller.aip">
       <SubType>Code</SubType>

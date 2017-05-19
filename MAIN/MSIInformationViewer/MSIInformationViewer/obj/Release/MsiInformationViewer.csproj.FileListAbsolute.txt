@@ -1,0 +1,17 @@
+C:\Users\Rico Suter\GitHubWorkspaces\MSI-Information-Viewer\MAIN\MSIInformationViewer\MSIInformationViewer\bin\Release\MsiInformationViewer.exe.config
+C:\Users\Rico Suter\GitHubWorkspaces\MSI-Information-Viewer\MAIN\MSIInformationViewer\MSIInformationViewer\bin\Release\MsiInformationViewer.exe
+C:\Users\Rico Suter\GitHubWorkspaces\MSI-Information-Viewer\MAIN\MSIInformationViewer\MSIInformationViewer\bin\Release\MsiInformationViewer.pdb
+C:\Users\Rico Suter\GitHubWorkspaces\MSI-Information-Viewer\MAIN\MSIInformationViewer\MSIInformationViewer\bin\Release\Microsoft.Deployment.WindowsInstaller.dll
+C:\Users\Rico Suter\GitHubWorkspaces\MSI-Information-Viewer\MAIN\MSIInformationViewer\MSIInformationViewer\obj\Release\MainWindow.baml
+C:\Users\Rico Suter\GitHubWorkspaces\MSI-Information-Viewer\MAIN\MSIInformationViewer\MSIInformationViewer\obj\Release\MainWindow.g.cs
+C:\Users\Rico Suter\GitHubWorkspaces\MSI-Information-Viewer\MAIN\MSIInformationViewer\MSIInformationViewer\obj\Release\App.g.cs
+C:\Users\Rico Suter\GitHubWorkspaces\MSI-Information-Viewer\MAIN\MSIInformationViewer\MSIInformationViewer\obj\Release\MsiInformationViewer_Content.g.cs
+C:\Users\Rico Suter\GitHubWorkspaces\MSI-Information-Viewer\MAIN\MSIInformationViewer\MSIInformationViewer\obj\Release\MsiInformationViewer_MarkupCompile.cache
+C:\Users\Rico Suter\GitHubWorkspaces\MSI-Information-Viewer\MAIN\MSIInformationViewer\MSIInformationViewer\obj\Release\MsiInformationViewer_MarkupCompile.lref
+C:\Users\Rico Suter\GitHubWorkspaces\MSI-Information-Viewer\MAIN\MSIInformationViewer\MSIInformationViewer\obj\Release\App.baml
+C:\Users\Rico Suter\GitHubWorkspaces\MSI-Information-Viewer\MAIN\MSIInformationViewer\MSIInformationViewer\obj\Release\styles.baml
+C:\Users\Rico Suter\GitHubWorkspaces\MSI-Information-Viewer\MAIN\MSIInformationViewer\MSIInformationViewer\obj\Release\MsiInformationViewer.g.resources
+C:\Users\Rico Suter\GitHubWorkspaces\MSI-Information-Viewer\MAIN\MSIInformationViewer\MSIInformationViewer\obj\Release\MsiInformationViewer.Properties.Resources.resources
+C:\Users\Rico Suter\GitHubWorkspaces\MSI-Information-Viewer\MAIN\MSIInformationViewer\MSIInformationViewer\obj\Release\MsiInformationViewer.csproj.GenerateResource.Cache
+C:\Users\Rico Suter\GitHubWorkspaces\MSI-Information-Viewer\MAIN\MSIInformationViewer\MSIInformationViewer\obj\Release\MsiInformationViewer.exe
+C:\Users\Rico Suter\GitHubWorkspaces\MSI-Information-Viewer\MAIN\MSIInformationViewer\MSIInformationViewer\obj\Release\MsiInformationViewer.pdb
